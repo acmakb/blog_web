@@ -17,7 +17,7 @@
 
 - 配置 高德地图天气API配置   申请api-key
 
-![image-20250717154341141](E:\program\blog-home\README.assets\image-20250717154341141.png)
+![image-20250717154341141](./README.assets/image-20250717154341141.png)
 
 <!-- ### 配置
 
