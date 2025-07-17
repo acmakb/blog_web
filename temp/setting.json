@@ -1,0 +1,46 @@
+{
+    "title": "acmakbの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "acmakb,个人主页",
+    "author": "acmakb",
+    "logo_img": "./img/icon/avatar.jpg",
+    "logo_text_1": "acmakb",
+    "logo_text_2": "top",
+    "github": "acmakb",
+    "qq": "1480647675",
+    "email": "18654693179@163.com",
+    "bilibili": "501866357",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://blog.csdn.net/ak_bingbing",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "#",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "#",
+        "fa-solid fa-book-bookmark",
+        "编程宝典"
+    ],
+    "link_5": [
+        "#",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "#",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+    "Copyright_text": "acmakb",
+    "beian": "鲁ICP备2025166671号"
+}
